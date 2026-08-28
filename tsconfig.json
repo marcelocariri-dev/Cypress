@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "lib": ["ES2018", "DOM"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "types": ["cypress", "node"],
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "strict": false
+  },
+  "include": ["**/*.ts", "../cypress.config.ts"]
+}
