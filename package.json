@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "@cypress/grep": "^7.0.0",
+    "@types/node": "^26.4.1",
     "cypress": "^15.21.0",
     "typescript": "^7.0.2"
   }
